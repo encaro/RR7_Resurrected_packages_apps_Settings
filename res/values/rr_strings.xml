@@ -1772,6 +1772,11 @@
     <string name="smartbar_custom_icon_size_title">Custom icon scaling</string>
     <string name="rr_navbar_settings">Navbar</string>
 
+  <!-- Allow fake signature -->
+    <string name="allow_signature_fake">Allow signature spoofing</string>
+    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+  </resources>
+
     <!--Custom logos-->
     <string name="rr_custom_logo_summary">Choose between a variety of custom logos / icons in statusbar</string>
     <string name="sb_custom_logos">Custom logos</string>
