@@ -2556,4 +2556,7 @@
     <string name="grey">Grey</string>
     <string name="default_string">Default</string>
 
+   <!-- MTP Dirty Hack -->
+   <string name="enable_mtp_dirtyhack_title">MTP instead Charging</string>
+   <string name="enable_mtp_dirtyhack_summary">Enable MTP instead Charging after connect to PC</string>
 </resources>

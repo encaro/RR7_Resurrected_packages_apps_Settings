@@ -83,10 +83,16 @@
             android:summary="@string/system_app_remover_summary"
             android:fragment="com.android.settings.rr.fragments.SystemappRemover" />
 
-+        <com.rr.settings.preferences.SecureSettingSwitchPreference
- +            android:key="allow_signature_fake"
- +            android:title="@string/allow_signature_fake"
- +            android:summary="@string/allow_signature_fake_summary"
- +            android:defaultValue="false" />
+       <com.android.settings.rr.Preferences.SecureSettingSwitchPreference
+            android:key="allow_signature_fake"
+            android:title="@string/allow_signature_fake"
+            android:summary="@string/allow_signature_fake_summary"
+            android:defaultValue="false" />
+
+       <com.android.settings.rr.Preferences.SecureSettingSwitchPreference
+            android:key="mtp_dirty_hack"
+            android:title="@string/enable_mtp_dirtyhack_title"
+            android:summary="@string/enable_mtp_dirtyhack_summary"
+            android:defaultValue="true" />
 
 </PreferenceScreen>
