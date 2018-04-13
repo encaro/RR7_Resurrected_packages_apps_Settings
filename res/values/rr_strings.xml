@@ -2559,10 +2559,4 @@
    <!-- MTP Dirty Hack -->
    <string name="enable_mtp_dirtyhack_title">MTP instead Charging</string>
    <string name="enable_mtp_dirtyhack_summary">Enable MTP instead Charging after connect to PC</string>
-
-   <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
-   <string name="show_cpu_info">Show CPU info</string>
-   <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
-   <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>   
-
 </resources>

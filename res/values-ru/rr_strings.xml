@@ -2307,11 +2307,7 @@
   <string name="cyan">Cyan</string>
   <string name="grey">Grey</string>
   <string name="default_string">По умолчанию</string>
-  <!-- MTP Dirty Hack -->
+<!-- MTP Dirty Hack -->
   <string name="enable_mtp_dirtyhack_title">MTP вместо Зарядки</string>
   <string name="enable_mtp_dirtyhack_summary">Включить MTP вместо Зарядки при подключении к ПК</string>
-  <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
-  <string name="show_cpu_info">Показать информацию о процессоре</string>
-  <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
-  <string name="show_cpu_info_summary">Экранное наложение, показывающее текущую информацию ЦП</string>  
 </resources>
