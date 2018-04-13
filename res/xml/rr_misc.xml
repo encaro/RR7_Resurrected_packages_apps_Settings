@@ -95,4 +95,10 @@
             android:summary="@string/enable_mtp_dirtyhack_summary"
             android:defaultValue="true" />
 
+       <com.android.settings.rr.Preferences.SecureSettingSwitchPreference
+            android:key="show_cpu_overlay"
+            android:title="@string/show_cpu_info"
+            android:summary="@string/show_cpu_info_summary" 
+            android:defaultValue="false" />			
+			
 </PreferenceScreen>
