@@ -2389,6 +2389,8 @@
     <string name="qgp_version">QGP Version</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="selinux_status">SELinux status</string>
+    <string name="dev_head">ROM Maintainer</string>
+    <string name="dev_name">ALEKSEY ARTAMONOV(non1979)</string>
 
     <!-- About phone screen, show when a value of some status item is unavailable. -->
     <string name="device_info_not_available">Not available</string>

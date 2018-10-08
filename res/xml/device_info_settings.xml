@@ -105,6 +105,11 @@
                 android:title="@string/rr_maintainer_title"
                 android:summary="@string/rr_maintainer_default"/>
 
+        <Preference
+                android:key="dev_info"
+                android:title="@string/dev_head"
+                android:summary="@string/dev_name"/>
+
         <!-- Device name -->
         <Preference android:key="rr_device_name"
                 android:enabled="false"
